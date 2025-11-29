@@ -4,13 +4,14 @@ A modern and beautifully designed mobile application built with **React Native**
 
 This project provides a smooth UI, dynamic coffee filtering, size & price adjustments, and a complete order flow.
 
+
 ---
 
 ## 📸 Screenshots
 
 <img width="2160" height="1260" alt="svgviewer-png-output" src="https://github.com/user-attachments/assets/2f945926-142b-478e-b3cb-ec14eb13ca10" />
 
----
+
 
 ---
 
@@ -59,6 +60,11 @@ Run on:
 * Payment integration
 
 ---
+
+📥 Download APK
+
+You can download the latest APK release here:
+👉 Download Coffee Shop APK
 
 ## 🤝 Contributing
 
