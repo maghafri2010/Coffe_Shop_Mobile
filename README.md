@@ -6,6 +6,14 @@ This project provides a smooth UI, dynamic coffee filtering, size & price adjust
 
 ---
 
+## 📸 Screenshots
+
+<img width="2160" height="1260" alt="svgviewer-png-output" src="https://github.com/user-attachments/assets/2f945926-142b-478e-b3cb-ec14eb13ca10" />
+
+---
+
+---
+
 ## 🚀 Features
 
 * 🖼️ Coffee catalog with images, prices, and ratings
@@ -25,35 +33,7 @@ This project provides a smooth UI, dynamic coffee filtering, size & price adjust
 * **Context API / State Management**
 * **Custom Components & Styled UI**
 
----
 
-## 📁 Project Structure
-
-```bash
-Coffee_Shop_Mobile/
-│
-├── components/
-│   ├── CoffeeCard.jsx
-│   ├── SearchBar.jsx
-│   ├── SizeSelector.jsx
-│   └── ThemedText.jsx
-│
-├── screens/
-│   ├── Home.jsx
-│   ├── Details.jsx
-│   └── Order.jsx
-│
-├── data/
-│   └── coffees.js
-│
-├── navigation/
-│   └── AppNavigator.js
-│
-├── assets/
-│   └── images/
-│
-└── App.js
-```
 
 ## 🛠️ Installation & Running
 
@@ -70,13 +50,6 @@ Run on:
 * **iOS** (physical or simulator)
 * **Web** via Expo
 
----
-
-## 📸 Screenshots
-
-<img width="2160" height="1260" alt="svgviewer-png-output" src="https://github.com/user-attachments/assets/2f945926-142b-478e-b3cb-ec14eb13ca10" />
-
----
 
 ## 🧠 Future Improvements
 
