@@ -55,30 +55,6 @@ Coffee_Shop_Mobile/
 └── App.js
 ```
 
----
-
-## 🔎 Search Feature Logic
-
-The search only filters **inside the currently selected coffee category**.
-
-```js
-useEffect(() => {
-  const value = search.toLowerCase();
-
-  if (value === "") {
-    setSelectedCoffees(currentCategoryCoffees);
-  } else {
-    setSelectedCoffees(
-      currentCategoryCoffees.filter(item =>
-        item.name.toLowerCase().includes(value)
-      )
-    );
-  }
-}, [search, currentCategoryCoffees]);
-```
-
----
-
 ## 🛠️ Installation & Running
 
 ```bash
@@ -114,12 +90,6 @@ Run on:
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, open an issue first.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
